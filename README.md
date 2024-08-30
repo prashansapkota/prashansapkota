@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashansapkota
 - 👀 I’m interested in Full stack development, mobile app development and UI/UX design.
-- 🌱 I’m currently learning DSA and AR/VR UI development. 
+- 🌱 I’m currently learning DSA and AR/VR development. 
 - 💞️ I’m looking to collaborate on making new projects with like-minded people.
 - 📫 How to reach me Instagram: prashansapkota, LinkedIn: prashansapkota
 - 😄 Pronouns: He/Him

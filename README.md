@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prashansapkota
-- 👀 I’m interested in Full-stack development & Machine learning.
+- 👀 I’m interested in Full-stack development & Machine learning\/AI.
 - 🌱 I’m currently learning Data Structure & Algorithms and TensorFlow. 
 - 💞️ I’m looking to collaborate on making new projects with like-minded people.
 - 📫 How to reach me Instagram: prashansapkota, LinkedIn: prashansapkota

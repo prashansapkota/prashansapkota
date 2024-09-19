@@ -33,13 +33,6 @@
   <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat&logo=google-maps&logoColor=white" />
 </p>
 
-
-## 💬 Let's Collaborate!
-I’m excited to collaborate on **AI-driven applications** and **Full-Stack web projects**. I thrive in environments that encourage **creative problem-solving** and working with **like-minded individuals** to build something amazing.
-
-### 💡 Fun Fact:
-I’m constantly exploring ways to blend **technology and art**, whether it’s through **designing intuitive UIs** or **training neural networks**!
-
 ---
 
 ## 📫 Reach Me

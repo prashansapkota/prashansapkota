@@ -1,13 +1,14 @@
-# Here is a little bit about me!
+<h1 align="center">Prashan Sapkota</h1>
+<p align="center"><b>Software Engineer · Machine Learning Enthusiast</b></p>
 
 <p align="center">
-  <img src="output.gif" alt="Typewriter intro animation" width="720">
+I build with <b>Web</b> + <b>AI</b> to create meaningful user experiences.  
+Currently learning <i>DSA</i> and diving into <i>Deep Learning (PyTorch, U-Net, SAM)</i>.
 </p>
 
-This animation is built with **Processing**. It types and deletes two lines per "slide" to introduce me succinctly.
 
----
 
-## Processing Source
-
-See [`github_README.pde`](./github_README.pde) for the sketch used to generate the GIF.
+<p align="center">
+<a href="https://linkedin.com/in/prashansapkota">LinkedIn</a> · 
+<a href="https://instagram.com/prashansapkota">Instagram</a>
+</p>

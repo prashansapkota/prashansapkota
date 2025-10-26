@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prashan</h1>
+<h1 align="center">Hi, I'm Prashan Sapkota</h1>
 <p align="center"><b>Software Engineer · Machine Learning Enthusiast</b></p>
 
 <p align="center">

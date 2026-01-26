@@ -1,14 +1,10 @@
 <h1 align="center">Hi, I'm Prashan Sapkota</h1>
-<p align="center"><b>Software Engineer | Prev. Intern at Zof AI, Vanderbilt</b></p>
+I build software, learn fast, and chase impact.
 
-<p align="center">
-I build with <b>Web</b> + <b>AI</b> to create meaningful user experiences.  
-Currently learning <i>DSA</i> and diving into <i>Deep Learning </i>.
-</p>
+Everything I know came from trying, failing, and showing up again.
 
+I learn by building: turning curiosity into projects and projects into impact.
 
+I’ve worked on AI systems, cloud, and ML research at Zof AI and Vanderbilt .
 
-<p align="center">
-<a href="https://linkedin.com/in/prashansapkota">LinkedIn</a> · 
-<a href="https://instagram.com/prashansapkota">Instagram</a>
-</p>
+In my free time, I like to sketch and paint.

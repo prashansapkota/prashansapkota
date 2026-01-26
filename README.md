@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Prashan Sapkota</h1>
 I build software, learn fast, and chase impact.
 
 Everything I know came from trying, failing, and showing up again.
